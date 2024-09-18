@@ -1,6 +1,6 @@
 function Header(){
     return <div className="bg-blue-400 px-6 py-2">
-        <h1 className="text-4xl font-semibold">canada <span className="text-yellow-400">Maah maah somali</span></h1>
+        <h1 className="text-4xl font-semibold">canada <span className="text-yellow-400">Maah maah</span></h1>
     </div>
 }
 
